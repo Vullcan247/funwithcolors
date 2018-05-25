@@ -1,0 +1,23 @@
+body {
+    background: cyan;
+    width: 90%;
+    margin: 0;
+}
+header {
+    background-color: coral;
+    color: black;
+}
+area1 {
+width: 100%;
+margin-inline-start: 10%;
+margin-inline-end: 20%
+
+}
+section {
+    border: solid black 1px;
+    margin: 30px;
+    height: 200px;
+    background-color: plum
+
+    }
+
